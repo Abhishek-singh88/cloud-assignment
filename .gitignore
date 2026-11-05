@@ -31,14 +31,10 @@ venv/
 ENV/
 
 # Model checkpoints and weights (Must NOT be committed to git per assignment rules)
-models/v1/*.bin
-models/v1/*.safetensors
-models/v1/*.pt
-models/v1/*.onnx
-models/v2/*.bin
-models/v2/*.safetensors
-models/v2/*.pt
-models/v2/*.onnx
+models/v1/*
+!models/v1/model.sha256
+models/v2/*
+!models/v2/model.sha256
 *.safetensors
 *.pt
 *.bin
