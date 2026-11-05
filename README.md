@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Quickstart: Build, Deploy, Test, and Tear Down
+## Quickstart: Build, Deploy, Test, and Tear Down
 
 This project is completely automated through the provided `Makefile`. Complete lifecycle orchestration requires at most three commands.
 
@@ -51,7 +51,7 @@ make down
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── cluster/
