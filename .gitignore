@@ -45,6 +45,9 @@ models/v2/*
 .coverage
 htmlcov/
 
-# OS specific
+# Archives
+*.zip
+*.tar.gz
+*.tgz
 .DS_Store
 Thumbs.db
