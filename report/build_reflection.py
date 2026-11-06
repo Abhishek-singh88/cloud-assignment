@@ -56,7 +56,7 @@ class ReflectionNumberedCanvas(canvas.Canvas):
         self.drawString(
             36,
             30,
-            "Student: Abhishek Singh (230101062) | IIT Guwahati",
+            "Student: Abhishek Singh (230101062) | IIIT Manipur",
         )
         page_str = f"Page {self._pageNumber} of {total_pages}"
         self.drawRightString(559, 30, page_str)

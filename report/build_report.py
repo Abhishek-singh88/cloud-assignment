@@ -61,7 +61,7 @@ class NumberedCanvas(canvas.Canvas):
         self.drawString(
             36,
             30,
-            "IIT Guwahati | Cloud Computing Project Report | Roll: 230101062",
+            "IIIT Manipur | Cloud Computing Project Report | Roll: 230101062",
         )
         page_str = f"Page {self._pageNumber} of {total_pages}"
         self.drawRightString(559, 30, page_str)
